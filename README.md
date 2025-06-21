@@ -18,12 +18,6 @@ I'm a passionate software developer and data scientist from Morocco 🇲🇦, pa
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/abdoubenbyi/abdoubenbyi/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 About Me
 
 - 🧠 MSc in Big Data & Business Intelligence
@@ -33,4 +27,4 @@ I'm a passionate software developer and data scientist from Morocco 🇲🇦, pa
 ---
 
 🔗 Let's connect!  
-[LinkedIn](https://www.linkedin.com/in/abdelghani-benbyi) | [Website](https://abdoubenbyi.github.io)
+[LinkedIn](https://www.linkedin.com/in/abdelghani-benbyi)
