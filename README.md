@@ -12,12 +12,6 @@ I'm a passionate software developer and data scientist from Morocco 🇲🇦, pa
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdoubenbyi&theme=default)](https://git.io/streak-stats)
-
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdoubenbyi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
