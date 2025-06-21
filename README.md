@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdelghani Benbyi
 
-<!--
-**abdoubenbyi/abdoubenbyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and data scientist from Morocco 🇲🇦, passionate and results-driven developer in software engineering, artificial intelligence, full-stack applications, and game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoubenbyi&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoubenbyi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdoubenbyi&theme=default)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdoubenbyi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/abdoubenbyi/abdoubenbyi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 About Me
+
+- 🧠 MSc in Big Data & Business Intelligence
+- 🛠️ Flutter, Python, FastAPI, MongoDB, Firebase, YOLO, TensorFlow ...
+- 🧩 I love chess, design, and building creative tools
+
+---
+
+🔗 Let's connect!  
+[LinkedIn](https://www.linkedin.com/in/abdelghani-benbyi) | [Website](https://abdoubenbyi.github.io)
